@@ -1,5 +1,4 @@
 # GRUPO 8
-<img src="https://github.com/eljosephavila123/tarea1Aspectos/blob/master/captures/logo.png?raw=true" align="right" />
 
 ## Integrantes 📚
 
@@ -8,6 +7,9 @@
 - Agnie Argudo
 - Joseph Ávila
 - Miguel Parra
+
+
+<img src="https://github.com/eljosephavila123/tarea1Aspectos/blob/master/captures/logo.png?raw=true" align="right" />
 
 # UML TO CODE 🚀
 > Taller # 5 .Pasar del UML a codigo en JAVA.\n
