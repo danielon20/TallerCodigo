@@ -12,13 +12,13 @@ import java.util.Date;
  * @author User
  */
 public class Persona {
-    String usuario;
-    String clave;
-    String nombre;
-    String apellido;
-    String cedula;
-    String direccion;
-    Date fechaNac;
+    protected String usuario;
+    protected  String clave;
+    protected  String nombre;
+    protected  String apellido;
+    protected String cedula;
+    protected  String direccion;
+    protected  Date fechaNac;
 
     public Persona() {
     }

@@ -12,10 +12,10 @@ import java.util.ArrayList;
  * @author User
  */
 public class HistoriaClinica {
-    int nro;
-    ArrayList<String> enfermedades;
-    ArrayList<String> alergias;
-    ArrayList<String> otros;
+   protected int nro;
+   protected ArrayList<String> enfermedades;
+   protected ArrayList<String> alergias;
+   protected ArrayList<String> otros;
 
     public HistoriaClinica() {
     }
