@@ -26,19 +26,22 @@ A partir de un Diagrama de clases , se tuvo que desarrollar el codigo hecho en J
 [contributors-shield]: https://img.shields.io/badge/contributors-5-success?style=plastic
 [contributors-url]: https://github.com/danielon20/TallerCodigo/graphs/contributors
 
-## Diagrama de Clases
+# Diagrama de Clases
 
-# UML dado
+## UML dado
 <p align="center">
 <img src="https://github.com/danielon20/TallerCodigo/blob/master/images/Picture1.png?raw=true"
   alt="Captura 2 "
   width="500" height="466">
 </p>
 
-# Solicitar cita
+# Diagrama de Secuencias
+
+## Solicitar cita
+
 <img src="https://raw.githubusercontent.com/danielon20/TallerCodigo/master/images/Taller%20C%C3%B3digo%20-%20Solicitar%20Cita%20.png" align="right" />
 
-# Atender a paciente
+## Atender a paciente
 <img src="https://raw.githubusercontent.com/danielon20/TallerCodigo/master/images/Taller%20C%C3%B3digo%20-%20Atender%20Paciente.png" align="right" />
 
 
