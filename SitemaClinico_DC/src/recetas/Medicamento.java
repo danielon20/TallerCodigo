@@ -1,0 +1,32 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package recetas;
+
+/**
+ *
+ * @author User
+ */
+public class Medicamento {
+    String medicina;
+    String dosis;
+    String observaciones;
+    int cantidadTotal;
+    String unidad;
+
+    public Medicamento() {
+    }
+
+    public Medicamento(String medicina, String dosis, String observaciones, int cantidadTotal, String unidad) {
+        this.medicina = medicina;
+        this.dosis = dosis;
+        this.observaciones = observaciones;
+        this.cantidadTotal = cantidadTotal;
+        this.unidad = unidad;
+    }
+    
+    
+    
+}
