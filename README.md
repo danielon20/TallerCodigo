@@ -1,6 +1,14 @@
 # GRUPO 8
 <img src="https://github.com/eljosephavila123/tarea1Aspectos/blob/master/captures/logo.png?raw=true" align="right" />
 
+## Integrantes 📚
+
+- Raul Villao 
+- Daniel Vizcarra
+- Agnie Argudo
+- Joseph Ávila
+- Miguel Parra
+
 # UML TO CODE 🚀
 > Taller # 5 .Pasar del UML a codigo en JAVA.\n
 
@@ -31,10 +39,4 @@ A partir de un Diagrama de clases , se tuvo que desarrollar el codigo hecho en J
 # Atender a paciente
 <img src="https://raw.githubusercontent.com/danielon20/TallerCodigo/master/images/Taller%20C%C3%B3digo%20-%20Atender%20Paciente.png" align="right" />
 
-## Integrantes 📚
 
-- Raul Villao 
-- Daniel Vizcarra
-- Agnie Argudo
-- Joseph Ávila
-- Miguel Parra
