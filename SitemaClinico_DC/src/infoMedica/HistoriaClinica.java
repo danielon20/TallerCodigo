@@ -13,9 +13,9 @@ import java.util.ArrayList;
  */
 public class HistoriaClinica {
    protected int nro;
-   protected ArrayList<String> enfermedades;
-   protected ArrayList<String> alergias;
-   protected ArrayList<String> otros;
+   protected ArrayList<String> enfermedades = new ArrayList<String>();
+   protected ArrayList<String> alergias = new ArrayList<String>();
+   protected ArrayList<String> otros= new ArrayList<String>();
 
     public HistoriaClinica() {
     }
@@ -26,6 +26,8 @@ public class HistoriaClinica {
         this.alergias = alergias;
         this.otros = otros;
     }
+    
+    
     
     
     

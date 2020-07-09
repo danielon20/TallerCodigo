@@ -12,9 +12,9 @@ import java.util.Date;
  * @author User
  */
 public class Cita {
-    Date fecha;
-    boolean pagada;
-    String registradoPor;
+    protected Date fecha;
+    protected boolean pagada;
+   protected String registradoPor;
 
     public Cita() {
     }

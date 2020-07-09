@@ -5,40 +5,38 @@
  */
 package persona;
 
+import infoMedica.HistoriaClinica;
 import java.util.Date;
+import recetas.Receta;
 
 /**
  *
  * @author User
  */
 public class Paciente extends Persona {
-    String usuario;
-    String clave;
-    String nombre;
-    String apellido;
-    String cedula;
-    String direccion;
-    Date fechaNac;
+    ;
     String email; //adicional
-
+    protected HistoriaClinica historiClinica;
+    protected Receta receta;
+   
     public Paciente() {
     }
 
-    public Paciente(String usuario, String clave, String nombre, String apellido, String cedula, String direccion, Date fechaNac, String email) {
-        this.usuario = usuario;
-        this.clave = clave;
-        this.nombre = nombre;
-        this.apellido = apellido;
-        this.cedula = cedula;
-        this.direccion = direccion;
-        this.fechaNac = fechaNac;
+    public Paciente(String email, String usuario, String clave, String nombre, String apellido, String cedula, String direccion, Date fechaNac) {
+        super(usuario, clave, nombre, apellido, cedula, direccion, fechaNac);
         this.email = email;
+        historiClinica= new HistoriaClinica();
+        receta = new Receta();
     }
+
+    
     
     public boolean solicitarCita(){
         
         return true;
     }
+    
+    
     
     
 }

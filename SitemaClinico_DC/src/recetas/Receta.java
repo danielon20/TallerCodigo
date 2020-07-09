@@ -5,7 +5,10 @@
  */
 package recetas;
 
+import java.util.Collection;
 import java.util.Date;
+import persona.Doctor;
+import persona.Paciente;
 
 
 /**
@@ -13,15 +16,15 @@ import java.util.Date;
  * @author User
  */
 public class Receta {
-    Date fecha;
-
+    protected Doctor doctor;
+    protected Date fecha;
+    protected Paciente paciente;
+    protected Collection<Medicamento> medicamentos ;
+    protected PlanNutricional planNutricional;
     public Receta() {
+        
+        paciente = new Paciente();
+        planNutricional= new PlanNutricional();    
     }
 
-    public Receta(Date fecha) {
-        this.fecha = fecha;
-    }
-    
-    
-    
 }

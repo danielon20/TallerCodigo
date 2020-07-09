@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Pagos;
+package pagos;
 
 /**
  *
  * @author User
  */
 public class PagoEfectivo {
-    float efectivo;
+     protected float efectivo;
 
     public PagoEfectivo() {
     }
