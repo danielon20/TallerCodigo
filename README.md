@@ -1,6 +1,6 @@
-## TallerCodigo
+# TallerCodigo
 
-# Integrantes:
+## Integrantes:
 
 - Raul Villao 
 - Daniel Vizcarra
