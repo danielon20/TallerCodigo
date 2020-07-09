@@ -27,4 +27,15 @@ public class Receta {
         planNutricional= new PlanNutricional();    
     }
 
+    public Receta(Doctor doctor, Date fecha, Paciente paciente, Collection<Medicamento> medicamentos, PlanNutricional planNutricional) {
+        this.doctor = doctor;
+        this.fecha = fecha;
+        this.paciente = paciente;
+        this.medicamentos = medicamentos;
+        this.planNutricional = planNutricional;
+    }
+    
+    
+    
+
 }

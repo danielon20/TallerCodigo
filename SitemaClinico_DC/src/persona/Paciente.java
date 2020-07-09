@@ -15,7 +15,7 @@ import recetas.Receta;
  */
 public class Paciente extends Persona {
     ;
-    String email; //adicional
+    protected String email; //adicional
     protected HistoriaClinica historiClinica;
     protected Receta receta;
    

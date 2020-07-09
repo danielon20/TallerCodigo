@@ -5,6 +5,9 @@
  */
 package persona;
 
+import hospital.AreaMedica;
+import infoMedica.Cita;
+import java.util.Collection;
 import java.util.Date;
 
 /**
@@ -12,9 +15,11 @@ import java.util.Date;
  * @author User
  */
 public class Doctor extends Persona {
-   
+    protected AreaMedica area;
+    protected Collection<Cita> citasPacientes;
     protected int regDoctor; //adicional
     protected String especialidad; //adicional
+    protected Secretaria secretaria;
 
     public Doctor() {
     }

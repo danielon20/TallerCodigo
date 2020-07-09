@@ -12,11 +12,11 @@ import java.util.Date;
  * @author User
  */
 public class PagoTarjeta {
-    float monto;
-    String numero;
-    Date expira;
-    String propietario;
-    String banco;
+   protected float monto;
+   protected String numero;
+   protected Date expira;
+   protected String propietario;
+   protected String banco;
 
     public PagoTarjeta() {
     }

@@ -10,7 +10,7 @@ package recetas;
  * @author User
  */
 public class PlanNutricional {
-    String descripcion;
+   protected String descripcion;
 
     public PlanNutricional() {
     }
