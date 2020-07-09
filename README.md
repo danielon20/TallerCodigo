@@ -4,7 +4,7 @@
 # UML TO CODE 🚀
 > Taller # 5 .Pasar del UML a codigo en JAVA.\n
 
-A partir de un Diagrama de clases , se tuve que desarrollar el codigo hecho en JAVA como lenguaje de programacion ,ademas se realizado 2 Diagramas de Secuencias 
+A partir de un Diagrama de clases , se tuvo que desarrollar el codigo hecho en JAVA como lenguaje de programacion ,ademas se realizado 2 Diagramas de Secuencias 
 - Solicitar cita
 - Atender a paciente
 
@@ -18,11 +18,18 @@ A partir de un Diagrama de clases , se tuve que desarrollar el codigo hecho en J
 
 ## Diagrama de Clases
 
+# UML dado
 <p align="center">
 <img src="https://github.com/danielon20/TallerCodigo/blob/master/images/Picture1.png?raw=true"
   alt="Captura 2 "
   width="500" height="466">
 </p>
+
+# Solicitar cita
+<img src="https://raw.githubusercontent.com/danielon20/TallerCodigo/master/images/Taller%20C%C3%B3digo%20-%20Solicitar%20Cita%20.png" align="right" />
+
+# Atender a paciente
+<img src="https://raw.githubusercontent.com/danielon20/TallerCodigo/master/images/Taller%20C%C3%B3digo%20-%20Atender%20Paciente.png" align="right" />
 
 ## Integrantes 📚
 
